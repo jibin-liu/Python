@@ -1,1 +1,1 @@
-Interactive python games built during Coursera course
+## Interactive python games built during Coursera course
